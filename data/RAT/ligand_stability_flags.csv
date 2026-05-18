@@ -1,0 +1,3 @@
+Run,Ligand,OverallCall,ProteinStateCall,BindingSiteCall,PossibleDissociation,FlagReasons,LigandRMSDMean_A,LigandRMSDFinal_A,InteractionLoadRatio_LastOverFirst
+RAT_BALO,Balovaptan,no obvious instability flag,similar compactness; lower global RMSD,binding site similar to apo,False,,1.664347768748335,1.6889617,
+RAT_UMF,UMF-504,binding-site flexibility increaser,similar compactness; similar global RMSD; globally more flexible,binding site loosened/more flexible,False,,2.0947124998298032,2.4628477,

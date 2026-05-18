@@ -1,0 +1,3 @@
+Run,Ligand,MatchedContactResidues,Mean_BindingSite_Delta_RMSF_A,Weighted_BindingSite_Delta_RMSF_A,MeanAbs_BindingSite_Delta_RMSF_A,RigidifiedResidues_N,MoreFlexibleResidues_N,BindingSiteCall
+HUMAN_BALO,Balovaptan,26,-0.0035101923076922624,-0.056950595308183666,0.31843496153846157,13,13,binding site similar to apo
+HUMAN_UMF,UMF-504,23,-0.5805186295652174,-0.5581662246374043,0.6067841686956522,22,1,binding site rigidified/stabilized

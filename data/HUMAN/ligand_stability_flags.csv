@@ -1,0 +1,3 @@
+Run,Ligand,OverallCall,ProteinStateCall,BindingSiteCall,PossibleDissociation,FlagReasons,LigandRMSDMean_A,LigandRMSDFinal_A,InteractionLoadRatio_LastOverFirst
+HUMAN_BALO,Balovaptan,no obvious instability flag,more expanded; similar global RMSD,binding site similar to apo,False,,1.4571393114815703,1.4050037,
+HUMAN_UMF,UMF-504,stable binding-site stabilizer,more expanded; higher global RMSD; globally less flexible,binding site rigidified/stabilized,False,,1.3835569884520127,1.3125945,

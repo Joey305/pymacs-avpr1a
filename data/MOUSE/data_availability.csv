@@ -1,0 +1,4 @@
+Run,State,Ligand,Protein RMSD,Protein RMSF,Rg,Ligand RMSD,Ligand RMSF,Residue contact summary,Interaction type summary,2D ligand,Ligand file,Framewise used,Framewise MB
+MOUSE_APO,APO,APO,Yes,Yes,Yes,No,No,No,No,No,,No,
+MOUSE_BALO,BALO,Balovaptan,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,UNL.cgenff.mol2,No,67.4
+MOUSE_UMF,UMF,UMF-504,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,UNL.cgenff.mol2,No,71.0

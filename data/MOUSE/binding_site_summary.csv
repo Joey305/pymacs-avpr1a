@@ -1,0 +1,3 @@
+Run,Ligand,MatchedContactResidues,Mean_BindingSite_Delta_RMSF_A,Weighted_BindingSite_Delta_RMSF_A,MeanAbs_BindingSite_Delta_RMSF_A,RigidifiedResidues_N,MoreFlexibleResidues_N,BindingSiteCall
+MOUSE_BALO,Balovaptan,29,13.918266917931033,13.413372568168478,13.918266917931033,0,29,binding site loosened/more flexible
+MOUSE_UMF,UMF-504,29,0.13797391655172417,0.11570516429365046,0.1830470131034483,6,23,binding site loosened/more flexible

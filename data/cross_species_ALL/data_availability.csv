@@ -1,0 +1,10 @@
+species,run_name,state,ligand_code,ligand_display,is_apo,available_protein_rmsd,available_protein_rmsf,available_rg,available_ligand_rmsd,available_ligand_rmsf,available_contacts,used_framewise,framewise_file_size_mb
+HUMAN,HUMAN_APO,APO,,APO,True,True,True,True,False,False,False,False,
+HUMAN,HUMAN_BALO,BALO,Balovaptan,Balovaptan,False,True,True,True,True,False,True,False,66.56241130828857
+HUMAN,HUMAN_UMF,UMF,UMF-504,UMF-504,False,True,True,True,True,False,True,False,74.41121006011963
+MOUSE,MOUSE_APO,APO,,APO,True,True,True,True,False,False,False,False,
+MOUSE,MOUSE_BALO,BALO,Balovaptan,Balovaptan,False,True,True,True,True,False,True,False,67.35069847106934
+MOUSE,MOUSE_UMF,UMF,UMF-504,UMF-504,False,True,True,True,True,False,True,False,71.001708984375
+RAT,RAT_APO,APO,,APO,True,True,True,True,False,False,False,False,
+RAT,RAT_BALO,BALO,Balovaptan,Balovaptan,False,True,True,True,True,False,True,False,73.59519100189209
+RAT,RAT_UMF,UMF,UMF-504,UMF-504,False,True,True,True,True,False,True,False,65.04816055297852

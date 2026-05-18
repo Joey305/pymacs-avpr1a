@@ -1,0 +1,2 @@
+Ligand_A_Run,Ligand_A,Ligand_B_Run,Ligand_B,ContactResidue_Jaccard,SharedContactResidues_N,UniqueContactResidues_A_N,UniqueContactResidues_B_N,InteractionType_CosineSimilarity,Delta_ProteinRMSDMean_A_minus_B,Delta_RgMean_A_minus_B,Delta_LigandRMSDMean_A_minus_B
+HUMAN_BALO,Balovaptan,HUMAN_UMF,UMF-504,0.6666666666666666,26,12,1,0.9989034544603732,-1.021554244442111,0.04854321016112806,0.07358232302955758
